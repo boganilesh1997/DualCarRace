@@ -1,2 +1,2 @@
 # DualCarRace
-![](DualCarRace/CarRacing/gameOver.PNG)
+![](/CarRacing/snap/gameOver.PNG)
